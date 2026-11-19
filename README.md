@@ -88,7 +88,7 @@ An online car browsing and rental website.
 
 - **GitHub:** [nkosehlatshwako902012628-beep](https://github.com/nkosehlatshwako902012628-beep)
 - **LinkedIn:** To be added
-- **Email:** To be added
+- **Email:** nkosenhlehlatshwako4@gmail.com
 
 ## Currently Exploring
 
@@ -97,6 +97,7 @@ An online car browsing and rental website.
 - Database-driven systems
 - Linux infrastructure and cybersecurity
 - Open-source collaboration
+- Networking administration 
 
 ## Collaboration
 
